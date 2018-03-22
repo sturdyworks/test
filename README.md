@@ -1,6 +1,6 @@
 ![](https://simpleblend.net/images/tech.svg =300x)
 
-![](https://phonegap.com/uploads/artwork/PhoneGap-Horizontal-Black.svg){:height="65px"}
+![](https://phonegap.com/uploads/artwork/PhoneGap-Horizontal-Black.svg) { float: right; }
 ![](https://upload.wikimedia.org/wikipedia/commons/4/45/Cordova-logo-by-gengns.svg){:height="130px"}
 
 # artcompkit
