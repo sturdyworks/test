@@ -1,4 +1,4 @@
-![](https://simpleblend.net/images/tech.svg?s=50)
+![](https://simpleblend.net/images/tech.svg | height=75)
 
 ![](https://phonegap.com/uploads/artwork/PhoneGap-Horizontal-Black.svg){:height="65px"}
 ![](https://upload.wikimedia.org/wikipedia/commons/4/45/Cordova-logo-by-gengns.svg){:height="130px"}
